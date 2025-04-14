@@ -1,8 +1,8 @@
 # Nocturnal-Username-Enumeration
-This is a script for the Nocturnal HTB machine to enumerate in the website.
+This script is for enumerating the users' website on the Nocturnal HTB machine.
 
 ## Usage:
-You need to register and login as a user to get se session cookie for the script to work. <br />
+You need to register and login as a user to get the session cookie for the script to work. <br />
 
 `python3 enumeration.py <cookie>`
 
